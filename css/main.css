@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 90px;
+    font-family: 'Edu SA Beginner', cursive;
+    margin-top: 60px;
+}
+.subtitulo{
+    text-align: center;
+    margin-top: 110px;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(178, 132, 192);
+}
